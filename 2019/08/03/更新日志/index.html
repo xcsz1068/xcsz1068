@@ -421,21 +421,22 @@
 
       
         <div>
-	  <ul class="post-copyright">
-  <li class="post-copyright-author">
-    <strong>Post author:</strong>
-    John Doe
-  </li>
-  <li class="post-copyright-link">
-    <strong>Post link:</strong>
-    <a href="http://yoursite.com/2019/08/03/更新日志/" title="更新日志(日结）">http://yoursite.com/2019/08/03/更新日志/</a>
-  </li>
-  <li class="post-copyright-license">
-    <strong>Copyright Notice: </strong>
-    All articles in this blog are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/" rel="external nofollow" target="_blank">CC BY-NC-SA 3.0</a> unless stating additionally.
-  </li>
-</ul>
-
+	  <div>
+        <ul class="post-copyright">
+          <li class="post-copyright-author">
+          <strong><%= __('copyright.author') %> </%=></strong><%= config.author%>
+          </%=></li>
+          <li class="post-copyright-link">
+          <strong><%= __('copyright.link') %> </%=></strong>
+          <a href="<%- config.root %><%- post.path %>" target="_blank" title="<%= post.title %>"><%- config.url %>/<%- post.path %></%-></%-></a>
+          </li>
+          <li class="post-copyright-license">
+            <strong><%= __('copyright.license_title') %>  </%=></strong>
+            <%= __('copyright.left_license_content') %><a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" title="Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)">CC BY-NC-ND 4.0</a>
+            <%= __('copyright.right_license_content') %>
+          </%=></%=></li>
+        </ul>
+      <div>
         </div>
       
 
@@ -459,7 +460,7 @@
 
       
       
-    </footer>
+    </div></div></footer>
   </div>
   
   
