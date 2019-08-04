@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[测试1]]></title>
+    <url>%2F2019%2F08%2F04%2F%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95%2F</url>
+    <content type="text"><![CDATA[测试测试测试测试测试测试测试测试测试测试测试]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+  </entry>
+  <entry>
     <title><![CDATA[更新日志(日结）]]></title>
     <url>%2F2019%2F08%2F03%2F%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97%2F</url>
     <content type="text"><![CDATA[上午：9：00 博客主题更换完成9：24 页面基本优化9：59 鼠标基本美化完成10：21鼠标点击美化完成11：10网站背景图美化完成11：38菜单栏基本美化12：21侧边栏基本美化2：21 阅读与统计插件编入成功3：12卡通随鼠标人物插件编入成功4：21 文章样式基本美化4：32 目录样式基本美化4：56 底部基本美化5：25总体排版已完成]]></content>
