@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>星尘双子的个人博客</title>
+  <title>代号息壤_星尘双子的个人博客</title>
   
   <subtitle>我的征途是那星辰大海</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://ngc1068.top/"/>
   <updated>2020-03-18T01:28:09.713Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://ngc1068.top/</id>
   
   <author>
     <name>星尘双子</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>欢迎光临《代号：息壤》玩家游戏交流社区首席管理员个人博客</title>
-    <link href="http://yoursite.com/2020/03/18/%E4%BB%A3%E5%8F%B7%E6%81%AF%E5%A3%A4%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%AE%B6%E4%BA%A4%E6%B5%81%E7%A4%BE%E5%8C%BA/"/>
-    <id>http://yoursite.com/2020/03/18/代号息壤游戏玩家交流社区/</id>
+    <link href="http://ngc1068.top/%E4%BB%A3%E5%8F%B7%E6%81%AF%E5%A3%A4%E6%B8%B8%E6%88%8F%E7%8E%A9%E5%AE%B6%E4%BA%A4%E6%B5%81%E7%A4%BE%E5%8C%BA.html"/>
+    <id>http://ngc1068.top/代号息壤游戏玩家交流社区.html</id>
     <published>2020-03-18T01:17:22.000Z</published>
     <updated>2020-03-18T01:28:09.713Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>测试1</title>
-    <link href="http://yoursite.com/2019/08/04/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/"/>
-    <id>http://yoursite.com/2019/08/04/分类测试/</id>
+    <link href="http://ngc1068.top/%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95.html"/>
+    <id>http://ngc1068.top/分类测试.html</id>
     <published>2019-08-04T08:09:20.000Z</published>
     <updated>2019-08-04T08:18:02.647Z</updated>
     
@@ -56,15 +56,15 @@
     
     </summary>
     
-      <category term="测试" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95/"/>
+      <category term="测试" scheme="http://ngc1068.top/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
   </entry>
   
   <entry>
     <title>更新日志(日结）</title>
-    <link href="http://yoursite.com/2019/08/03/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97/"/>
-    <id>http://yoursite.com/2019/08/03/更新日志/</id>
+    <link href="http://ngc1068.top/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.html"/>
+    <id>http://ngc1068.top/更新日志.html</id>
     <published>2019-08-03T12:08:33.000Z</published>
     <updated>2019-08-03T12:19:19.618Z</updated>
     
@@ -84,8 +84,8 @@
   
   <entry>
     <title>星尘双子私人博客今天正式开通</title>
-    <link href="http://yoursite.com/2019/08/03/hello/"/>
-    <id>http://yoursite.com/2019/08/03/hello/</id>
+    <link href="http://ngc1068.top/hello.html"/>
+    <id>http://ngc1068.top/hello.html</id>
     <published>2019-08-03T01:11:44.000Z</published>
     <updated>2019-08-03T01:37:05.541Z</updated>
     
@@ -106,8 +106,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/08/02/hello-world/"/>
-    <id>http://yoursite.com/2019/08/02/hello-world/</id>
+    <link href="http://ngc1068.top/hello-world.html"/>
+    <id>http://ngc1068.top/hello-world.html</id>
     <published>2019-08-02T08:06:38.887Z</published>
     <updated>2019-08-03T01:36:17.455Z</updated>
     
